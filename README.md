@@ -7,3 +7,5 @@ A incorrect guess will alert the user the number they entered is either too high
 If the user exhuasts all 10 guesses they lose the game and need to restart to try again.
 
 This game uses vanilla js in the head of the guess.htm file.
+The live version of the application can be found here:
+http://webdev1.joefreemedia.com/lab13/guess.htm
